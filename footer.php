@@ -1,0 +1,22 @@
+</div>        <div class="clearfix"></div>
+</div></div>
+<!-- Footer -->
+<style type="text/css">body,div,p{text-align:center;‎}‎</style>
+<link href="http://alamera.ga/styles.css" rel="stylesheet" type="text/css"/>
+<style>
+.bblue { 	text-transform: capitalize; 	cursor: pointer; 	color: #ffffff; 	font-size: 18px; 	text-shadow: 0px -1px 0px #696969; 	-webkit-box-shadow: #64baf5 0px 6px 0px -5px inset; 	box-shadow: #64baf5 0px 6px 0px -5px inset; 	padding-top: 10px; 	padding-right: 45px; 	padding-bottom: 10px; 	padding-left: 45px; 	border-width: 1px; 	border-style: solid; 	border-color: #3187ed; 	background-image: linear-gradient(to bottom, #52a9f2 0%, #3b85ed 100%); 	background-repeat: repeat-x; 	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff52a9f2', endColorstr='#ff3b85ed', GradientType=0); 	outline: none; 	position: relative; } .bblue:hover { 	background-image: linear-gradient(to bottom, #57aef3 0%, #4398ef 100%); 	background-repeat: repeat-x; 	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff57aef3', endColorstr='#ff4398ef', GradientType=0); } .bblue:active { 	top: 1px; }
+.bred { 	text-transform: capitalize; 	cursor: pointer; 	color: #ffffff; 	font-size: 18px; 	text-shadow: 0px -1px 0px #c21919; 	-webkit-box-shadow: #ec8457 0px 6px 0px -5px inset; 	box-shadow: #ec8457 0px 6px 0px -5px inset; 	padding-top: 10px; 	padding-right: 45px; 	padding-bottom: 10px; 	padding-left: 45px; 	border-width: 1px; 	border-style: solid; 	border-color: #d43221; 	background-image: linear-gradient(to bottom, #e56341 0%, #dd4a30 100%); 	background-repeat: repeat-x; 	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffe56341', endColorstr='#ffdd4a30', GradientType=0); 	outline: none; 	position: relative; } .bred:hover { 	background-image: linear-gradient(to bottom, #e9714b 0%, #e35337 100%); 	background-repeat: repeat-x; 	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffe9714b', endColorstr='#ffe35337', GradientType=0); } .bred:active { 	top: 1px; }
+.bgreen { 	text-transform: capitalize; 	cursor: pointer; 	color: #ffffff; 	font-size: 18px; 	text-shadow: 0px -1px 0px #707070; 	-webkit-box-shadow: #98cdb2 0px 6px 0px -5px inset; 	box-shadow: #98cdb2 0px 6px 0px -5px inset; 	padding-top: 10px; 	padding-right: 45px; 	padding-bottom: 10px; 	padding-left: 45px; 	border-width: 1px; 	border-style: solid; 	border-color: #449e65; 	background-image: linear-gradient(to bottom, #72ba91 0%, #529e6a 100%); 	background-repeat: repeat-x; 	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff72ba91', endColorstr='#ff529e6a', GradientType=0); 	outline: none; 	position: relative; 	border-radius: 0; } .bgreen:hover { 	background-image: linear-gradient(to bottom, #79be98 0%, #5ead7a 100%); 	background-repeat: repeat-x; 	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff79be98', endColorstr='#ff5ead7a', GradientType=0); } .bgreen:active { 	top: 1px; }
+</style>
+
+<style type="text/css"> body{ padding-top:0px;padding-bottom:0px;direction: rtl; MARGIN-top:0px;direction:rtl; MARGIN-bottom:0px; background-color: #ffffff; color: #000000; FONT-SIZE:medium;align: center; FONT-FAMILY: Verdana, Helvetica, Arial, Tahoma } /* SET HyperLink Colors */ A:link { COLOR: #000055; TEXT-DECORATION: none; } A:hover { COLOR: #000000; TEXT-DECORATION: none; } A:active { COLOR: #000000; TEXT-DECORATION: none; } A:visited { COLOR: none; TEXT-DECORATION: none; } input { background-color: #ffffff; border-color: #FF91AF; border-style: solid; border-width:; font-family: Verdana, Tahoma, Helvetica; font-size:; COLOR: #000000;}</style> 
+<style type="text/css">body,div,p{text-align:center;‎}‎</style>
+<div id="footer"><div class="footer_nav shell"><span class="style1"> <table width="100%" border="0" align="center"><tr>
+<td class="a5" align="center"><a href="/c/">غرف الدردشــة</a></td>
+<td class="a5" align="center"> <a href="/member/online.php">ٱلمتـواجدون الان</a></td>
+<td class="a5" align="center"><a href="/forum">المنتــديات</a></td></tr></table></span> <div class="a5" style="background:#000033; padding: 3px;" align="center"><span class="style70"><a href="../content/about.php"style="color:#ffffff"> من نحـن</a> &para;
+<a href="../content/advertise.php"style="color:#ffffff">اتـصل بنا</a></span> &para; <a href="../content/privacy.php"style="color:#ffffff">الخصوصية</a> &para;
+<a href="/"style="color:#ffffff">الصفحة الرئيسية</a></span></span></div></div></div> </div>  
+<!-- End Footer -->
+<br>
+</body></html>
