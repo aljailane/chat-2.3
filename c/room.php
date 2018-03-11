@@ -1,6 +1,6 @@
 <?php
 /*
-Project: Aljbook 1.0
+Project: chat one 0.0.4
 
 */require("../init.php");
 if(!isloggedin())
