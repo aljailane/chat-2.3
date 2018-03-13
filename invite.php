@@ -1,19 +1,20 @@
 <?php
 ERROR_REPORTING(0);
 /*
-Project: PBNL Forum v2.3.5
+Project: chat one 0.0.4
 
 Coded By: Adegboye Joshua (JOSHUAEASY)
 
-Facebook: http://facebook.com/JOSHUAEASY
+developing: Muhammed aljailane
 
-Email: (adegboyejoshua@gmail.com)
 
-CellPhone +2348137536702
 
-Twitter: @herdaywhaley
 
-WebSite: http://www.9jatech.tk
+
+
+
+
+
 */
 require("init.php");
 if(!isloggedin())
