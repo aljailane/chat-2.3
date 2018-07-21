@@ -29,18 +29,7 @@ font-size: 13px;
 -->
 </style><div class='body_width'>";
 include"../topnav.php";
-echo"<div class='clearfix'></div>
 
-
-<div style='clear: both'></div>
-
-
-
-<center> ";
-echo"<center>";
-include"../ads.php";
-
-echo"</center>";
 
 
 $msg=cleanvalues2($_GET["msg"]);
